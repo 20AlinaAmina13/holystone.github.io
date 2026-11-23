@@ -47,7 +47,7 @@
 <hr color="green">
 <img src="Картинка2.jpg" width="385" height="245">
 <img src="Картинка3.jpg" width="385" height="245">
-<img src="Картинка4.jpg" width="385" height="245">
+<img src="Картинка4!.jpg" width="385" height="245">
 <img src="Картинка5.jpg" width="385" height="245">
 <img src="Картинка6.jpg" width="385" height="245">
 <img src="Картинка7.jpg" width="385" height="245">
