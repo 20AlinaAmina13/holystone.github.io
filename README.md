@@ -35,26 +35,23 @@
 <a href="https://yandex.ru/maps/?um=constructor
 
 %3A1a0ce9768030b216364f20d972220f94b9d8c8cdacdf14e7ce67fcd8ce540a22&source=constructorLink"> <b> <font size=5> Переходи на 
-
 интерактивную карту!</a></b></font>
 <br>
 <p>
 <h2>Добро пожаловать!
 <br>
-<img src="C:\Мой первый сайт\Картинка1.jpg" width="800" height="500">
+<img src="Картинка1.jpg" width="800" height="500">
 <br>
 <p>
 <p>
 <hr color="green">
-<img src="C:\Мой первый сайт\Картинка2.jpg" width="385" height="245">
-<img src="C:\Мой первый сайт\Картинка3.jpg" width="385" height="245">
-<img src="C:\Мой первый сайт\Картинка4.jpg" width="385" height="245">
-<br>
-<img src="C:\Мой первый сайт\Картинка5.jpg" width="385" height="245">
-<img src="C:\Мой первый сайт\Картинка6.jpg" width="385" height="245">
-<img src="C:\Мой первый сайт\Картинка7.jpg" width="385" height="245">
-<p>
-<br>
+<img src="Картинка2.jpg" width="385" height="245">
+<img src="Картинка3.jpg" width="385" height="245">
+<img src="Картинка4.jpg" width="385" height="245">
+<img src="Картинка5.jpg" width="385" height="245">
+<img src="Картинка6.jpg" width="385" height="245">
+<img src="Картинка7.jpg" width="385" height="245">
+
 <a href="https://cms.izi.travel/99100/tours/1870387/map?
 
 sw=lat_60.490196322191935_lng_34.49762467612844&ne=lat_60.51268033176601_lng_34.5794213222466&zoom=14">
