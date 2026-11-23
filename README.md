@@ -51,9 +51,9 @@
 <img src="Картинка5.jpg" width="385" height="245">
 <img src="Картинка6.jpg" width="385" height="245">
 <img src="Картинка7.jpg" width="385" height="245">
+<br>
 
 <a href="https://cms.izi.travel/99100/tours/1870387/map?
-
 sw=lat_60.490196322191935_lng_34.49762467612844&ne=lat_60.51268033176601_lng_34.5794213222466&zoom=14">
 <b> <font size=5> Переходи на аудио гид!</a></b></font>
 <br>
