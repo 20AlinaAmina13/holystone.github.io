@@ -33,7 +33,6 @@
 </font>
 <br>
 <a href="https://yandex.ru/maps/?um=constructor
-
 %3A1a0ce9768030b216364f20d972220f94b9d8c8cdacdf14e7ce67fcd8ce540a22&source=constructorLink"> <b> <font size=5> Переходи на 
 интерактивную карту!</a></b></font>
 <br>
